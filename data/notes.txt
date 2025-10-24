@@ -1,0 +1,56 @@
+Resume:
+CARLOS QUIHUIS
+(520) 312-8154 | carlos.quihuis.dev@gmail.com | linkedin.com/in/carlos-quihuis-190b431aa
+github.com/Kiwis01
+EDUCATION
+Arizona State University Aug 2020 - May 2025
+Bachelor of Science, Computer Science
+• Coursework: Data Structures and Algorithms, Operating Systems, Machine Learning, Natural Language Processing, Computer &
+Network Forensics, Distributed Systems, Information Assurance, Web Development with Java, Embedded Microprocessor Systems
+EXPERIENCE
+University of Phoenix Software Engineering Intern May 2025 - Aug 2025
+Tempe, AZ, USA
+• Developed a pull request agent using Bitbucket API, LangChain, and Qdrant that analyzed code changes with Python, enabling tech
+leads to catch logic errors and coding mistakes in ~10 seconds.
+• Enhanced system functionality by integrating a Retrieval-Augmented Generation (RAG) pipeline to detect cross-file impacts and
+improve code analysis accuracy.
+• Implemented asynchronous Amazon SQS pipelines to resolve webhook timeouts and reduce CI/CD delays by ~30 seconds.
+• Designed and deployed a Kafka-based microservice in Java on AWS (S3 + Lambda) to audit over 100 access keys, uncovering 62
+orphaned policies and 30 missing team entries, thereby promoting company-wide security compliance.
+• Coordinated incident response during Cognito/credentials deprecations, introducing 2 new security measures to eliminate system
+downtime.
+City of Phoenix Software Engineering Intern Sep 2024 - Apr 2025
+Phoenix, AZ, USA
+• Optimized SQL queries and restructured database schemas to reduce asset lookup times from 72 minutes to under 5 seconds (~7,000x
+faster), supporting a large-scale government database migration with zero downtime.
+• Enhanced asset identification output by 3x through improved indexing and tagging workflows, demonstrating efficient data handling
+in RDBMS environments.
+• Consolidated 200+ documentation resources into a single linked system, reducing retrieval time from hours to under a minute while
+ensuring streamlined information accessibility.
+PROJECTS & OUTSIDE EXPERIENCE
+AI Engineer & CTO Jun 2023 - Present
+Healthy | heathy.org Hermosillo, Mexico
+• Co-founded and led the development of a unified healthcare platform now used in pilot programs across public hospitals in Hermosillo,
+Mexico. Doctors can now access complete patient health records, lab reports, and imaging (DICOM) through a single interface.
+• Conducted 42,000+ pilot tests with physicians, incorporating their feedback to fine tune usability, workflows, and accuracy.
+• Integrated AI tools (YOLOv8 + MedSAM + MONAI) to detect, classify, and segment brain tumors in medical images. Achieved 88.9%
+accuracy while making anomalies clearly visible across multiple scan layers.
+• Leveraged MedGemma to interpret textual reports alongside the imaging results, providing multimodal diagnostic insights.
+• Deployed on AWS with HIPAA-compliant architecture, following engineering standards, CI/CD pipelines, and security best practices
+to ensure scalability and reliability.
+Medical Assistant for pre diagnoses Aug 2024 - Apr 2025
+Chmltech Ltd.
+• Designed a mixture-of-agents architecture (independently, before tools like LangChain) where a supervising agent coordinated multiple
+specialized agents through structured prompts.
+• Built a custom multimodal pipeline combining MRI imaging and patient records, enabling richer pre-diagnostic support for doctors.
+• Leveraged Roboflow and React for the application layer, while integrating PyTorch models to classify brain tumors and extract relevant
+medical features.
+• Deployed a prototype medical assistant capable of providing AI-powered insights from both imaging and textual medical data, laying
+the groundwork for future clinical testing.
+TECHNICAL SKILLS
+• Programming Languages: Python (pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Pydicom), Java, C/C++, JavaScript, C#/.NET
+• Developer Tools: Git, Docker, Linux/Unix, Bitbucket, AWS, Spacelift, Postman, Apache Kafka, Unity
+• Databases: SQL (MySQL, PostgreSQL), MongoDB, Vector Databases (Qdrant, Chroma)
+PUBLICATIONS
+• Co-author.XR for Educational Anatomy: an Immersive human atlas with chatbot.University of Paris & UNESCO, XR4Health25 (2025).
+Presented a VR/AR system for medical imaging education. Link: https://www.researchgate.net/publication/391125680_XR_for_educational_anatomy_an_Immersive_human_atlas_with_chatbot
